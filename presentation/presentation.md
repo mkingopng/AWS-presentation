@@ -163,7 +163,7 @@ This will strip out all unnecessary information and make the binary smaller and 
 Don't use debug unless you're debugging. It makes the bigger and slower
 
 note that AWS SAM normally caches artifacts when you're building your lambda
-However AWS Sam won't cache the changes when you're building your rust code 
+However AWS Sam won't cache the changes when you're building your Rust code 
 -->
 
 ---
